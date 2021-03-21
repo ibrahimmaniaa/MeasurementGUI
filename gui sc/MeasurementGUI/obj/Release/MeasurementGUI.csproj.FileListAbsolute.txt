@@ -1,0 +1,10 @@
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\bin\Release\MeasurementGUI.exe.config
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\bin\Release\MeasurementGUI.exe
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\bin\Release\MeasurementGUI.pdb
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.mainForm.resources
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.Properties.Resources.resources
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.csproj.GenerateResource.cache
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.csproj.CoreCompileInputs.cache
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.exe
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.pdb
+C:\Users\z00491jc\Desktop\private\seminar\MeasurementGUI\MeasurementGUI\obj\Release\MeasurementGUI.csprojAssemblyReference.cache
